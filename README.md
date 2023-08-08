@@ -13,3 +13,8 @@ The game over will be displayed when the user selects not to play.
 
 Other information
 Thinking of making the size of the dice dynamic where the user can enter the to determine how many sides need not just limited to 6
+
+Challenges i need help in
+- How to restrict the prompt to accept only integers
+- How to position prompt at center of page
+- How to make dies roll only when the roll dice is clicked and not any click on screen
